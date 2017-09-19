@@ -6,8 +6,10 @@
   "bugs": {
     "url": "https://github.com/exodusmovement/cryptocompare/issues"
   },
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  },
   "devDependencies": {
-    "node-fetch": "^1.5.3",
     "standard": "9.x",
     "tap-spec": "^4.0.2",
     "tape": "^4.0.0"
