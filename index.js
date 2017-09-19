@@ -1,5 +1,6 @@
 'use strict'
-/* global fetch */
+
+const fetch = require('node-fetch')
 
 const baseUrl = 'https://min-api.cryptocompare.com/data/'
 
